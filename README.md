@@ -1,7 +1,6 @@
-
+![QREO](qreo.png)
 <h1 align="center">
   <br>
-  ![QREO](qreo.png)
   <br>
   QREO
   <br>
