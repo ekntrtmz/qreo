@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#todo><img src="https://raw.githubusercontent.com/ekntrtmz/qreo/master/qreo.png" alt="QREO" width="200"></a>
+  <a href="#todo>![QREO](qreo.png)</a>
   <br>
   QREO
   <br>
