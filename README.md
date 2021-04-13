@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#todo><img src="https://raw.githubusercontent.com/ekntrtmz/qreo/master/qreo.png" alt="QREO" width="200"></a>
+  <a href="#todo><img src="https://github.com/ekntrtmz/qreo/blob/master/qreo.png" alt="QREO" width="200"></a>
   <br>
   QREO
   <br>
