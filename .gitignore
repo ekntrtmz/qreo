@@ -28,3 +28,4 @@ addons/
 !/storage/*/index.html
 !/storage/*/.htaccess
 defines.php
+.DS_Store
