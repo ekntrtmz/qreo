@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A self-hosted dynamic QR management micro application.</h4>
+<h4 align="center"> A self-hosted dynamic QR management application for the web</h4>
 
 ## Key Features
 
