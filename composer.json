@@ -1,0 +1,13 @@
+{
+    "name": "ekntrtmz/qreo",
+    "description": "Self-hosted QR Code Management",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    
+    "config": {
+        "vendor-dir": "lib/vendor",
+        "optimize-autoloader": true
+    }    
+}
